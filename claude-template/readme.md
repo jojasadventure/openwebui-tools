@@ -1,0 +1,1 @@
+I am exploring developing with claude.ai and the new project files feature. This is a collection of files to add to a new claude project project when developing an open web UI tool. They attempt to explain the required format in detail. by adding lots of comments. Also some extra files.
